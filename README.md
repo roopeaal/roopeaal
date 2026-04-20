@@ -32,8 +32,8 @@ I build hands-on projects to strengthen my skills through real implementation, t
 
 | Project | Description |
 |---|---|
-| [Lentokonepeli](https://github.com/roopeaal/Lentokonepeli) | Country-guessing game with map interaction, scoring logic, and leaderboard. |
 | [portfolio](https://github.com/roopeaal/portfolio) | Personal portfolio project with focus on visual quality and responsive UI. |
+| [Lentokonepeli](https://github.com/roopeaal/Lentokonepeli) | Country-guessing game with map interaction, scoring logic, and leaderboard. |
 | [metropolia-login-backend](https://github.com/roopeaal/metropolia-login-backend) | Backend project focused on authentication and practical API structure. |
 
 ## GitHub Stats
