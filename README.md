@@ -43,7 +43,7 @@ This GitHub profile collects selected course and personal projects that show how
 ## Live Links
 
 - Portfolio: [roopeaaltonen.fi](https://roopeaaltonen.fi)
-- Country guessing game: [lentokonepeli.onrender.com](https://lentokonepeli.onrender.com)
+- Country guessing game: [maanarvauspeli-loader.onrender.com](https://maanarvauspeli-loader.onrender.com)
 - Phishing awareness demo: [idp-metropolia-profile-cas-login.onrender.com](https://idp-metropolia-profile-cas-login.onrender.com)
 - LinkedIn: [linkedin.com/in/roope-aaltonen](https://www.linkedin.com/in/roope-aaltonen)
 
