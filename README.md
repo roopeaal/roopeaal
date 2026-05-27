@@ -53,9 +53,13 @@ This GitHub profile collects selected course and personal projects that show how
 - Interest in ICT roles where networking, Linux, cloud, IoT and cybersecurity meet.
 - Ability to turn course work into presentable portfolio projects with clear READMEs and deployment details.
 
-## GitHub Stats
+## GitHub Activity
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=roopeaal&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopeaal&layout=compact&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roopeaal&theme=github" alt="GitHub activity summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roopeaal&theme=github" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roopeaal&theme=github" alt="GitHub profile stats" />
 </p>
